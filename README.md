@@ -7,7 +7,7 @@
 <br><br><br>
 
 
-|<a href="https://github.com/dysung32/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dysung32&show_icons=true&include_all_commits=true&theme=apprentice&hide_border=true&hide=stars,issues" alt="Da Yeon's GitHub stats" /></a>|<a href="https://github.com/dysung32/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dysung32&layout=compact&theme=apprentice&hide_border=true" /></a>|
+| <a href="https://github.com/dysung32/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dysung32&show_icons=true&include_all_commits=true&theme=apprentice&hide_border=true&hide=stars,issues" alt="Da Yeon's GitHub stats" /></a> | <a href="https://github.com/dysung32/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dysung32&layout=compact&theme=apprentice&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <div align="center">
