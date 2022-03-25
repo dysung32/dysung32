@@ -21,7 +21,7 @@
 <br>
 
 <!-- 협업 테크 스택 -->
-<h4 align="center" style="margin-bottom: 10px;">🧑‍🤝‍🧑 Co-working Tools 🧑‍🤝‍🧑</h4>
+<h3 align="center" style="margin-bottom: 10px;">🧑‍🤝‍🧑 Co-working Tools 🧑‍🤝‍🧑</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/git-F34F29?style=flat&logo=git&logoColor=white"></a> &nbsp
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> &nbsp
@@ -35,8 +35,8 @@
 <h4 align="center">
   <details style="cursor: pointer;">
     <summary>👶 Minor Tech Stack 👶</summary>
-      <div markdown="1">
-        <div style="margin-top: 10px;">
+      <div markdown="1" style="margin-top: 10px;">
+        <div>
         <img src="https://img.shields.io/badge/React Native-%2320232A?style=flat&logo=react&logoColor=%2361DAFB"></a> &nbsp
         <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=Node.js&logoColor=white"/></a> &nbsp 
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> &nbsp
