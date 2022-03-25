@@ -29,13 +29,13 @@
   <img src="https://img.shields.io/badge/Notion-181717?style=flat&logo=Notion&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=Google%20Colab&logoColor=white"/>
 </p>
-<br>
+<br><br>
 
 <!-- Minor 테크 스택 -->
 <h4 align="center">
   <details style="cursor: pointer;">
-    <summary>👶 Minor Tech Stack 👶</summary>
-      <div markdown="1" style="margin-top: 10px;">
+    <summary style="margin-bottom: 10px;">👶 Minor Tech Stack 👶</summary>
+      <div markdown="1">
         <div>
         <img src="https://img.shields.io/badge/React Native-%2320232A?style=flat&logo=react&logoColor=%2361DAFB"></a> &nbsp
         <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=Node.js&logoColor=white"/></a> &nbsp 
