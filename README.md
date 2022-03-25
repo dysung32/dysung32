@@ -34,15 +34,16 @@
 <!-- Minor 테크 스택 -->
 <h4 align="center">
   <details style="cursor: pointer;">
-    <summary style="margin-bottom: 10px;">👶 Minor Tech Stack 👶</summary>
-      <div markdown="1">
-        <div>
+    <summary>👶 Minor Tech Stack 👶</summary>
+    <div markdown="1">
+      <div style="magin-top: 20px;">
         <img src="https://img.shields.io/badge/React Native-%2320232A?style=flat&logo=react&logoColor=%2361DAFB"></a> &nbsp
         <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=Node.js&logoColor=white"/></a> &nbsp 
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> &nbsp
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a> &nbsp
         <img src="https://img.shields.io/badge/MongoDB-339933?style=flat&logo=MongoDB&logoColor=white"/></a> &nbsp
       </div>
+    </div>
   </details>
 </h4>
 <br>
