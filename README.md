@@ -67,7 +67,7 @@
 <br>
 <!-- Contribution Graph -->
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=dysung32&theme=react-dark&bg_color=d3d3d3&hide_border=true&line=808080&color=57595d" width=95% />
+  <img src="https://activity-graph.herokuapp.com/graph?username=dysung32&theme=react-dark&bg_color=d3d3d3&hide_border=true&line=808080&color=57595d" width=95% style="pointer-events: none;"/>
   </a>
 </div>
 
