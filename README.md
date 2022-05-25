@@ -60,16 +60,5 @@
     </td>
   </tr>
 </table>
-<hr>
-
-<!-- ### My Bio  -->
-
-<br>
-<!-- Contribution Graph -->
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://activity-graph.herokuapp.com/graph?username=dysung32&theme=react-dark&bg_color=d3d3d3&hide_border=true&line=808080&color=57595d" width=95% />
-  </a>
-</div>
 
 
