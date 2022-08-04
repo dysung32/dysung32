@@ -7,42 +7,42 @@
 <br><br><br>
 
 <!-- Main 테크 스택 -->
-<h3 align="center" style="margin-bottom: 10px;">🛠 Main Tech Stack 🛠</h3>
+<h3 align="center" style="margin-bottom: 10px;">🔥🛠 Main Tech Stack 🛠🔥</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-F06529?style=flat&logo=HTML5&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/CSS3-2965F5?style=flat&logo=CSS3&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></a> &nbsp
-  <img src="https://img.shields.io/badge/React-%2320232A?style=flat&logo=react&logoColor=%2361DAFB"></a> &nbsp
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-F06529?style=flat&logo=HTML5&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/CSS3-2965F5?style=flat&logo=CSS3&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/> &nbsp
+  <img src="https://img.shields.io/badge/React-%2320232A?style=flat&logo=react&logoColor=%2361DAFB"> &nbsp
   <br>
-  <img src="https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=%23FF9900"/></a>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=%23FF9900"/>
 </p>
 <br>
 
 <!-- 협업 테크 스택 -->
 <h3 align="center" style="margin-bottom: 10px;">🧑‍🤝‍🧑 Co-working Tools 🧑‍🤝‍🧑</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/git-F34F29?style=flat&logo=git&logoColor=white"></a> &nbsp
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> &nbsp
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/> &nbsp
-  <img src="https://img.shields.io/badge/Notion-181717?style=flat&logo=Notion&logoColor=white"/> &nbsp
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=Google%20Colab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-F34F29?style=flat&logo=git&logoColor=white" /> &nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /> &nbsp
+  <img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" /> &nbsp
+  <img src="https://img.shields.io/badge/Notion-181717?style=flat&logo=Notion&logoColor=white" /> &nbsp
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 </p>
 <br><br>
 
 <!-- Minor 테크 스택 -->
 <h4 align="center">
   <details style="cursor: pointer;">
-    <summary>👶 Minor Tech Stack 👶</summary>
+    <summary>🐣 Minor Tech Stack 🐣</summary>
     <br>
     <div markdown="1">
       <div>
-        <img src="https://img.shields.io/badge/React Native-%2320232A?style=flat&logo=react&logoColor=%2361DAFB"></a> &nbsp
-        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=Node.js&logoColor=white"/></a> &nbsp 
-        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> &nbsp
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a> &nbsp
-        <img src="https://img.shields.io/badge/MongoDB-339933?style=flat&logo=MongoDB&logoColor=white"/></a> &nbsp
+        <img src="https://img.shields.io/badge/React Native-%2320232A?style=flat&logo=react&logoColor=%2361DAFB"> &nbsp
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=Node.js&logoColor=white"/> &nbsp 
+        <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"> &nbsp
+        <img src="https://img.shields.io/badge/MongoDB-339933?style=flat&logo=MongoDB&logoColor=white"/> &nbsp
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> &nbsp
       </div>
     </div>
   </details>
