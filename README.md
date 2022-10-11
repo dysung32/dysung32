@@ -50,7 +50,17 @@
 </h4>
 <br>
 
-<!-- 깃허브 스탯, BOJ 티어 -->
-
+<!-- 깃허브 스탯, 주 사용 언어 -->
+<table>
+  <tr>
+    <td width="57%">
+      <img src="https://github-readme-stats.vercel.app/api?username=dysung32&show_icons=true&include_all_commits=true&theme=apprentice&hide_border=true&hide=stars,issues" />
+    </td>
+    <td width="43%">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sdy32">
+    </td>
+  </tr>
+</table>
+<!-- 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dysung32&show_icons=true&include_all_commits=true&theme=apprentice&hide_border=true&hide=stars,issues)](https://github.com/dysung32/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdy32)](https://solved.ac/sdy32/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdy32)](https://solved.ac/sdy32/) -->
