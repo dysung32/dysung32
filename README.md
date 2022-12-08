@@ -11,7 +11,7 @@
 <h3 align="center" style="margin-bottom: 10px;">🔥🛠 Main Tech Stack 🛠🔥</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/> &nbsp
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D"> &nbsp
   <img src="https://img.shields.io/badge/React-%2320232A?style=flat&logo=react&logoColor=%2361DAFB"> &nbsp
   <br>
   <img src="https://img.shields.io/badge/HTML5-F06529?style=flat&logo=HTML5&logoColor=white"/> &nbsp
@@ -39,7 +39,10 @@
     <br>
     <div markdown="1">
       <div>
-        <img src="https://img.shields.io/badge/React Native-%2320232A?style=flat&logo=react&logoColor=%2361DAFB"> &nbsp
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> &nbsp
+        <img src="https://img.shields.io/badge/Spring Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white"> &nbsp
+        <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white"> &nbsp
+        <br>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=%23FF9900"/> &nbsp
         <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=Node.js&logoColor=white"/> &nbsp 
         <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"> &nbsp
