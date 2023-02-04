@@ -11,8 +11,8 @@
 <h3 align="center" style="margin-bottom: 10px;">🔥🛠 Main Tech Stack 🛠🔥</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/> &nbsp
-  <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D"> &nbsp
   <img src="https://img.shields.io/badge/React-%2320232A?style=flat&logo=react&logoColor=%2361DAFB"> &nbsp
+  <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D"> &nbsp
   <br>
   <img src="https://img.shields.io/badge/HTML5-F06529?style=flat&logo=HTML5&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/CSS3-2965F5?style=flat&logo=CSS3&logoColor=white"/> &nbsp
