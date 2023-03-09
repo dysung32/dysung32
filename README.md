@@ -75,6 +75,7 @@
 <!-- 깃허브 스탯, 주 사용 언어 -->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dysung32&show_icons=true&include_all_commits=true&theme=apprentice&hide_border=true&hide=stars,issues)](https://github.com/dysung32/github-readme-stats)
+<a href="https://solved.ac/sdy32"><img src="http://mazandi.herokuapp.com/api?handle=sdy32&theme=warm"/></a>
 
 ### My **solved.ac** Profile
 
