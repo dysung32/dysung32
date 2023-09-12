@@ -70,15 +70,3 @@
     </div>
   </details>
 </h4>
-<br>
-
-<!-- 깃허브 스탯, 주 사용 언어 -->
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dysung32&show_icons=true&include_all_commits=true&theme=apprentice&hide_border=true&hide=stars,issues)](https://github.com/dysung32/github-readme-stats)
-
-### My **Baekjoon Algorithms** Profile
-
-[![Baekjoon Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdy32)](https://solved.ac/sdy32/)
-[![Baekjoon Graph](http://mazandi.herokuapp.com/api?handle=sdy32&theme=dark)](https://solved.ac/sdy32)
-
-<h4>P.S. I use <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/> and <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=OpenJDK&logoColor=white"> to solve Algorithms.</h4>
